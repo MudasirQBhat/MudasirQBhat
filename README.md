@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**eranees/eranees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MudasirQBhat/MudasirQBhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey there 
-<a href="https://www.instagram.com/kaags_shadow/">
-  <img align="left" alt="Anees's Instagram" width="200px" src="https://avatars.githubusercontent.com/u/99726488?v=4" />
-</a>
+
 <!-- <a href="https://discord.gg/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
-<!-- <a href="https://twitter.com/eranees">
+<!-- <a href="https://twitter.com/mud">
   <img align="left" alt="Anees's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>  -->
-<!-- <a href="https://www.linkedin.com/in/eranees/">
+<!-- <a href="https://www.linkedin.com/in/mudasir-bhat-760402215/">
   <img align="left" alt="Anees's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.png" />
 </a> -->
 
@@ -32,7 +30,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, i'm [Anees Akbar](https://nasdev.in/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Mudasir Qadir](https://nasdev.in/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
