@@ -1,4 +1,4 @@
-<h2 align="center">Backend Developer</h2>
+<h2 align="center">Full Stack Developer</h2>
 <section>
   <table>
     <tbody>
