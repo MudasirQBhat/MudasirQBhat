@@ -89,7 +89,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <section>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Passionate+Backend+Engineer;Crafting+Efficient+Solutions;Driven+by+Quality+and+Performance;Lifelong+Learner+in+Tech;Building+Robust+Backend+Systems" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Passionate+FullStack+Engineer;Crafting+Efficient+Solutions;Driven+by+Quality+and+Performance;Lifelong+Learner+in+Tech;Building+Robust+Backend+Systems" alt="Typing SVG">
   </p>
 </section>
 <hr>
