@@ -1,289 +1,213 @@
-```html
-<h1 align="center">Hi 👋, I'm Mudasir Qadir</h1>
+# Hi 👋, I'm Mudasir Qadir
 
-<h3 align="center">
-Full Stack Engineer | React.js • Next.js • TypeScript • NestJS • Docker
-</h3>
+### Full Stack Engineer | React.js • Next.js • TypeScript • NestJS • Docker
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mudasir-qadir-760402215" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/mudasir-qadir-760402215">
+    <img src="https://img.shields.io/badge/LinkedIn-Mudasir%20Qadir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://github.com/MudasirQBhat" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/MudasirQBhat">
+    <img src="https://img.shields.io/badge/GitHub-MudasirQBhat-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://mudasirqadir.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://mudasirqadir.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+TypeScript;NestJS+%7C+Node.js+%7C+Docker;Building+Scalable+Web+Applications;Passionate+About+Clean+Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;React+%7C+Next.js+%7C+TypeScript;NestJS+%7C+Node.js+%7C+Docker;Building+Scalable+Web+Applications;Passionate+About+Clean+Architecture" />
 </p>
 
-<hr>
+---
 
-<table>
-<tr>
-<td width="220px" align="center">
-
-<img
-src="https://avatars.githubusercontent.com/u/91400941?v=4"
-width="180"
-alt="Mudasir Qadir"
-/>
-
-</td>
-
-<td>
-
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a **Full Stack Engineer** with **3.5+ years of professional experience** building scalable web applications using modern technologies such as **React.js, Next.js, TypeScript, NestJS, and Docker**.
 
-Over the years, I've worked across multiple industries including:
+I've worked across multiple domains including:
 
-- Healthcare
-- E-Commerce
-- AI Platforms
-- Learning Management Systems
-- Marketplace Applications
-- Booking Platforms
+* 🏥 Healthcare
+* 🛒 E-Commerce
+* 🤖 AI Platforms
+* 📚 Learning Management Systems
+* 🎯 Marketplace Applications
+* 🎣 Booking Platforms
 
-My expertise spans the complete software development lifecycle—from creating responsive user interfaces and architecting frontend applications to building backend APIs, authentication systems, database models, and deployment workflows.
+My expertise spans the complete software development lifecycle—from building responsive frontend applications to designing backend APIs, authentication systems, database models, and deployment workflows.
 
 I enjoy solving complex business problems through clean architecture, maintainable code, and exceptional user experiences.
 
-</td>
-</tr>
-</table>
+---
 
-<hr>
+## 🚀 Current Focus
 
-<h2>🚀 Current Focus</h2>
+* Building scalable Full Stack applications
+* Improving DevOps and deployment expertise
+* Learning cloud-native architecture patterns
+* Exploring Docker, CI/CD, PostgreSQL, Redis, and infrastructure automation
+* Writing clean, maintainable, and production-ready software
 
-<ul>
-  <li>Building scalable Full Stack applications</li>
-  <li>Improving DevOps and deployment expertise</li>
-  <li>Learning cloud-native architecture patterns</li>
-  <li>Exploring Docker, CI/CD, PostgreSQL, Redis and infrastructure automation</li>
-  <li>Writing clean, maintainable and production-ready software</li>
-</ul>
+---
 
-<hr>
+## 🛠️ Tech Stack
 
-<h2>🛠️ Tech Stack</h2>
-
-<h3>Frontend</h3>
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
 </p>
 
-<ul>
-<li>React.js</li>
-<li>Next.js</li>
-<li>TypeScript</li>
-<li>JavaScript (ES6+)</li>
-<li>Redux Toolkit</li>
-<li>RTK Query</li>
-<li>React Query</li>
-<li>Tailwind CSS</li>
-<li>Material UI (MUI)</li>
-<li>Chakra UI</li>
-<li>Ant Design</li>
-<li>Bootstrap</li>
-</ul>
+* React.js
+* Next.js
+* TypeScript
+* JavaScript (ES6+)
+* Redux Toolkit
+* RTK Query
+* React Query
+* Tailwind CSS
+* Material UI (MUI)
+* Chakra UI
+* Ant Design
 
-<h3>Backend</h3>
+---
+
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-<ul>
-<li>NestJS</li>
-<li>Node.js</li>
-<li>Express.js</li>
-<li>REST APIs</li>
-<li>JWT Authentication</li>
-<li>Role Based Access Control</li>
-<li>TypeORM</li>
-</ul>
+* NestJS
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Role-Based Access Control
+* TypeORM
 
-<h3>Databases</h3>
+---
+
+### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-<ul>
-<li>PostgreSQL</li>
-<li>MySQL</li>
-<li>SQL</li>
-</ul>
+* PostgreSQL
+* MySQL
+* SQL
 
-<h3>DevOps & Tools</h3>
+---
+
+### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
 </p>
 
-<ul>
-<li>Docker</li>
-<li>Git</li>
-<li>GitHub</li>
-<li>Postman</li>
-<li>Swagger</li>
-<li>Jira</li>
-<li>Figma</li>
-<li>VS Code</li>
-</ul>
+* Docker
+* Git
+* GitHub
+* Postman
+* Swagger
+* Jira
+* Figma
+* VS Code
 
-<hr>
+---
 
-<h2>🏆 Professional Experience</h2>
+## 💼 Professional Experience
 
-<h3>Full Stack Engineer — GraphicWeave</h3>
+### Full Stack Engineer — GraphicWeave
 
-<ul>
-<li>Building frontend and backend applications using React.js, Next.js, NestJS and TypeORM.</li>
-<li>Designing and implementing REST APIs and authentication systems.</li>
-<li>Containerizing services using Docker.</li>
-<li>Collaborating across product, design and engineering teams.</li>
-<li>Leading code reviews and mentoring junior developers.</li>
-</ul>
+* Building frontend and backend applications using React.js, Next.js, NestJS, and TypeORM
+* Designing REST APIs and authentication systems
+* Containerizing services using Docker
+* Collaborating with product, design, and engineering teams
+* Leading code reviews and mentoring junior developers
 
-<h3>Frontend Engineer — GraphicWeave</h3>
+### Frontend Engineer — GraphicWeave
 
-<ul>
-<li>Built scalable React and Next.js applications using TypeScript.</li>
-<li>Implemented complex state management using Redux Toolkit and RTK Query.</li>
-<li>Created reusable component libraries.</li>
-<li>Delivered responsive and accessible user experiences.</li>
-</ul>
+* Built scalable React and Next.js applications using TypeScript
+* Implemented advanced state management using Redux Toolkit and RTK Query
+* Created reusable component libraries
+* Delivered responsive and accessible user experiences
 
-<hr>
+---
 
-<h2>📂 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<h3>🤖 Intellimiant — AI-Powered Equipment Repair Assistant</h3>
+### 🤖 Intellimiant — AI-Powered Equipment Repair Assistant
 
-<p>
-AI-driven diagnostic platform helping users troubleshoot and repair electrical equipment through intelligent step-by-step workflows.
-</p>
+AI-driven platform helping users troubleshoot and repair electrical equipment through intelligent step-by-step workflows.
 
-<p>
-<b>Tech Stack:</b> React.js, Next.js, TypeScript, Redux Toolkit, NestJS, Docker
-</p>
+**Tech Stack:** React.js, Next.js, TypeScript, Redux Toolkit, NestJS, Docker
 
-<hr>
+---
 
-<h3>💊 Pharma Labs — Healthcare E-Commerce Platform</h3>
+### 💊 Pharma Labs — Healthcare E-Commerce Platform
 
-<p>
 Production-grade healthcare and pharmaceutical platform featuring authentication, product management, checkout workflows, and advanced filtering capabilities.
-</p>
 
-<p>
-<b>Tech Stack:</b> React.js, TypeScript, RTK Query, MUI, Axios
-</p>
+**Tech Stack:** React.js, TypeScript, RTK Query, MUI, Axios
 
-<hr>
+---
 
-<h3>📚 Tarbiyat — Multi-Role Learning Management System</h3>
+### 📚 Tarbiyat — Multi-Role Learning Management System
 
-<p>
 Comprehensive LMS supporting Admin, Teacher, Parent, and Child dashboards with role-based workflows and assignment management.
-</p>
 
-<p>
-<b>Tech Stack:</b> React.js, TypeScript, Chakra UI, RTK Query
-</p>
+**Tech Stack:** React.js, TypeScript, Chakra UI, RTK Query
 
-<hr>
+---
 
-<h3>🎯 YourYoda — Mentor Discovery Platform</h3>
+### 🎯 YourYoda — Mentor Discovery Platform
 
-<p>
-Mentor matching and booking platform enabling users to discover mentors, manage sessions and track engagement.
-</p>
+Mentor matching and booking platform enabling users to discover mentors, manage sessions, and track engagement.
 
-<p>
-<b>Tech Stack:</b> Next.js, React.js, TypeScript, NestJS
-</p>
+**Tech Stack:** Next.js, React.js, TypeScript, NestJS
 
-<hr>
+---
 
-<h2>📊 GitHub Statistics</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=MudasirQBhat&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MudasirQBhat&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudasirQBhat&layout=compact&theme=tokyonight&hide_border=true"
-/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MudasirQBhat&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🏆 Achievements
 
 <p align="center">
-<img
-src="https://github-profile-trophy.vercel.app/?username=MudasirQBhat&theme=tokyonight&no-frame=true&margin-w=10"
-/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MudasirQBhat&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
-<hr>
+---
 
-<h2>🔥 Contribution Activity</h2>
+## 🔥 Contribution Activity
 
 <p align="center">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=MudasirQBhat&theme=tokyo-night&hide_border=true"
-/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MudasirQBhat&theme=tokyo-night&hide_border=true" />
 </p>
 
-<hr>
+---
 
-<h2>📫 Connect With Me</h2>
+## 📫 Connect With Me
 
-<p>
-📧 <strong>Email:</strong>
-<a href="mailto:mudasirqadirbhat@gmail.com">
-mudasirqadirbhat@gmail.com
-</a>
-</p>
+* 📧 **Email:** [mudasirqadirbhat@gmail.com](mailto:mudasirqadirbhat@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/mudasir-qadir-760402215
+* 🌐 **Portfolio:** https://mudasirqadir.netlify.app
+* 💻 **GitHub:** https://github.com/MudasirQBhat
 
-<p>
-💼 <strong>LinkedIn:</strong>
-<a href="https://www.linkedin.com/in/mudasir-qadir-760402215">
-linkedin.com/in/mudasir-qadir-760402215
-</a>
-</p>
-
-<p>
-🌐 <strong>Portfolio:</strong>
-<a href="https://mudasirqadir.netlify.app">
-mudasirqadir.netlify.app
-</a>
-</p>
-
-<p>
-💻 <strong>GitHub:</strong>
-<a href="https://github.com/MudasirQBhat">
-github.com/MudasirQBhat
-</a>
-</p>
-
-<hr>
+---
 
 <p align="center">
   <b>
     Building reliable software through thoughtful design, scalable architecture, and continuous learning.
   </b>
 </p>
-```
